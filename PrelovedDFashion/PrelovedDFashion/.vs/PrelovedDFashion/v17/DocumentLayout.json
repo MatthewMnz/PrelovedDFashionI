@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\preloveddfashion\\reporteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\reporteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\preloveddfashion\\inventarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\inventarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\ventasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\reporteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\reporteform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\inventarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\inventarioform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\preloveddfashion\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\preloveddfashion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\preloveddfashion\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\modelos\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\modelos\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\modelos\\joyeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\modelos\\joyeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\modelos\\ropa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\modelos\\ropa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|c:\\users\\matta\\onedrive\\desktop\\preloveddfashion\\preloveddfashion\\preloveddfashion\\preloveddfashion\\ventasform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944D59A2-BE0D-40CE-BBFB-4ACC1ABB67B0}|PrelovedDFashion\\PrelovedDFashion.csproj|solutionrelative:preloveddfashion\\ventasform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\MainForm.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\MainForm.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:10:04.36Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\MainForm.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\MainForm.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\MainForm.cs",
+              "RelativeToolTip": "PrelovedDFashion\\MainForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:10:16.366Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\MainForm.Designer.cs",
+              "RelativeToolTip": "PrelovedDFashion\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:33:22.046Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "LoginForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:44:04.608Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\LoginForm.Designer.cs",
+              "RelativeToolTip": "PrelovedDFashion\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:50:13.247Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentasForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\VentasForm.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\VentasForm.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\VentasForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PrelovedDFashion\\VentasForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:47:05.956Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReporteForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\ReporteForm.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\ReporteForm.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\ReporteForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ReporteForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:24:15.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ropa.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\Modelos\\Ropa.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\Modelos\\Ropa.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\Modelos\\Ropa.cs",
+              "RelativeToolTip": "PrelovedDFashion\\Modelos\\Ropa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:04:08.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventarioForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\InventarioForm.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\InventarioForm.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\InventarioForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "InventarioForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:12:31.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\LoginForm.resx",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\LoginForm.resx",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\LoginForm.resx",
+              "RelativeToolTip": "PrelovedDFashion\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-05T04:30:32.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Joyeria.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\Modelos\\Joyeria.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\Modelos\\Joyeria.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\Modelos\\Joyeria.cs",
+              "RelativeToolTip": "PrelovedDFashion\\Modelos\\Joyeria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:04:53.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReporteForm.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\ReporteForm.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\ReporteForm.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\ReporteForm.cs",
+              "RelativeToolTip": "PrelovedDFashion\\ReporteForm.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowEkAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:24:21.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VentasForm.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\VentasForm.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\VentasForm.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\VentasForm.cs",
+              "RelativeToolTip": "PrelovedDFashion\\VentasForm.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowDEAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:55:13.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventarioForm.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\InventarioForm.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\InventarioForm.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\InventarioForm.cs",
+              "RelativeToolTip": "PrelovedDFashion\\InventarioForm.cs",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAmwN0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:27:16.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\LoginForm.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\LoginForm.cs",
+              "RelativeToolTip": "PrelovedDFashion\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T19:47:40.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\Modelos\\Producto.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\Modelos\\Producto.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\Modelos\\Producto.cs",
+              "RelativeToolTip": "PrelovedDFashion\\Modelos\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:03:43.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\Modelos\\Venta.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\Modelos\\Venta.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\Modelos\\Venta.cs",
+              "RelativeToolTip": "PrelovedDFashion\\Modelos\\Venta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:05:19.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\Program.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\Program.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\Program.cs",
+              "RelativeToolTip": "PrelovedDFashion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T00:09:52.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VentasForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\VentasForm.Designer.cs",
+              "RelativeDocumentMoniker": "PrelovedDFashion\\VentasForm.Designer.cs",
+              "ToolTip": "C:\\Users\\matta\\OneDrive\\Desktop\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\PrelovedDFashion\\VentasForm.Designer.cs",
+              "RelativeToolTip": "PrelovedDFashion\\VentasForm.Designer.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowGIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T01:51:43.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

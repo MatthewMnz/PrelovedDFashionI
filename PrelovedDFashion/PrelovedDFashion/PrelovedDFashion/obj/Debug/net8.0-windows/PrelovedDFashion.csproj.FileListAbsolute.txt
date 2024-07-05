@@ -1,0 +1,62 @@
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.exe
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.deps.json
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.runtimeconfig.json
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.dll
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.pdb
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.MainForm.resources
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.csproj.GenerateResource.cache
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.AssemblyInfoInputs.cache
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.AssemblyInfo.cs
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.csproj.CoreCompileInputs.cache
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.dll
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\refint\PrelovedDFashion.dll
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.pdb
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.genruntimeconfig.cache
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\ref\PrelovedDFashion.dll
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.InventarioForm.resources
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.VentasForm.resources
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.ReporteForm.resources
+C:\Users\matta\OneDrive\Documentos\PROYECTO PROGRA\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.LoginForm.resources
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.exe
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.deps.json
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.runtimeconfig.json
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.dll
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.pdb
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.InventarioForm.resources
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.LoginForm.resources
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.MainForm.resources
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.ReporteForm.resources
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.VentasForm.resources
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.csproj.GenerateResource.cache
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.AssemblyInfoInputs.cache
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.AssemblyInfo.cs
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.csproj.CoreCompileInputs.cache
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.sourcelink.json
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.dll
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\refint\PrelovedDFashion.dll
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.pdb
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.genruntimeconfig.cache
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\ref\PrelovedDFashion.dll
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.exe
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.deps.json
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.runtimeconfig.json
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.dll
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\bin\Debug\net8.0-windows\PrelovedDFashion.pdb
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.InventarioForm.resources
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.LoginForm.resources
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.MainForm.resources
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.ReporteForm.resources
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.VentasForm.resources
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.csproj.GenerateResource.cache
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.AssemblyInfoInputs.cache
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.AssemblyInfo.cs
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.csproj.CoreCompileInputs.cache
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.sourcelink.json
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.dll
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\refint\PrelovedDFashion.dll
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.pdb
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\PrelovedDFashion.genruntimeconfig.cache
+C:\Users\matta\OneDrive\Desktop\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\PrelovedDFashion\obj\Debug\net8.0-windows\ref\PrelovedDFashion.dll
